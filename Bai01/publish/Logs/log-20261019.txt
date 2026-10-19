@@ -1,0 +1,10 @@
+2026-10-19 09:29:23.237 +07:00 [INF] Test Thêm mới: MaCT = 14
+2026-10-19 09:29:23.341 +07:00 [INF] Test Sửa: MaCT = 14, SoTien = 65000
+2026-10-19 09:29:23.431 +07:00 [INF] Test Xóa: MaCT = 14
+2026-10-19 09:39:22.379 +07:00 [INF] Test Thêm mới: MaCT = 28
+2026-10-19 09:39:22.412 +07:00 [INF] Test Sửa: MaCT = 28, SoTien = 65000
+2026-10-19 09:39:22.479 +07:00 [INF] Test Xóa: MaCT = 28
+2026-10-19 09:43:07.900 +07:00 [INF] === Ứng dụng 'Sổ chi tiêu cá nhân' bắt đầu khởi động ===
+2026-10-19 09:43:16.615 +07:00 [INF] === Ứng dụng 'Sổ chi tiêu cá nhân' kết thúc phiên làm việc ===
+2026-10-19 09:44:02.758 +07:00 [INF] === Ứng dụng 'Sổ chi tiêu cá nhân' bắt đầu khởi động ===
+2026-10-19 09:44:06.598 +07:00 [INF] === Ứng dụng 'Sổ chi tiêu cá nhân' kết thúc phiên làm việc ===

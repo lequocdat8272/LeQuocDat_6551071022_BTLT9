@@ -1,0 +1,16 @@
+# Cấu hình chứa mật khẩu nhạy cảm
+appsettings.json
+appsettings.Development.json
+!appsettings.example.json
+
+# Thư mục build và logs
+bin/
+obj/
+Logs/
+
+# VS & User files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates

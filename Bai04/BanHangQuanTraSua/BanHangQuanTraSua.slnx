@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BanHangQuanTraSua.Tests/BanHangQuanTraSua.Tests.csproj" />
+  <Project Path="BanHangQuanTraSua/BanHangQuanTraSua.csproj" />
+</Solution>
